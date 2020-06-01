@@ -1,27 +1,7 @@
-## Welcome!
-img {
-    max-width: 100%;
-    max-height: 100%;
-}
 
-.portrait {
-    height: 80px;
-    width: 30px;
-}
 
-.landscape {
-    height: 30px;
-    width: 80px;
-}
+    <img src="IMG_7765_cropshop.jpg" width="50" height="50">
 
-.square {
-    height: 75px;
-    width: 75px;
-}
-
-<div class="portrait">
-    <img src="IMG_7765_cropshop.jpg">
-  </div>
 
 I'm currently a Visiting Assistant Professor at Scheller College of Business, Georgia Institute of Technology. 
 
