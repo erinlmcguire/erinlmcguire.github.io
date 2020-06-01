@@ -1,5 +1,7 @@
 ## Welcome!
 
+<img src="IMG_7765_cropshop.jpg">
+
 I'm currently a Visiting Assistant Professor at Scheller College of Business, Georgia Institute of Technology. 
 
 My research explores the influence of business cycles on individual decision-making, entrepreneurship, and firm strategy.  More information can be found on my Research page.
