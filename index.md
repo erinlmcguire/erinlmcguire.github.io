@@ -1,7 +1,7 @@
 ## Welcome!
 img {
-    max-width: 50%;
-    max-height: 50%;
+    max-width: 100%;
+    max-height: 100%;
 }
 
 .portrait {
@@ -19,7 +19,7 @@ img {
     width: 75px;
 }
 
-<div class="img">
+<div class="portrait">
     <img src="IMG_7765_cropshop.jpg">
   </div>
 
