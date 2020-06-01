@@ -1,6 +1,6 @@
 ## Welcome!
 
-<<img style="max-width: 100px; height: auto; "img src="IMG_7765_cropshop.jpg">
+<img style="max-width: 100px; height: auto; "img src="IMG_7765_cropshop.jpg">
 
 I'm currently a Visiting Assistant Professor at Scheller College of Business, Georgia Institute of Technology. 
 
