@@ -5,9 +5,9 @@
 
 Welcome!  
 
-My research explores the influence of business cycles on individual decision-making, entrepreneurship, and firm strategy.  
+I'm currently a Senior Analyst in Global People Analytics at PepsiCo. This page is meant to showcase my side data analysis projects and analysis I did as an academic economist.  Much of the code here uses R, but I also use Python and SQL. 
 
-View my [CV](https://drive.google.com/file/d/13-YAaMBR0gYI-uazFRwyNhGSySuLymop/view) here
 
-Contact me at: [erin.mcguire@scheller.gatech.edu](mailto:erin.mcguire@scheller.gatech.edu)
+
+Contact me at: [elemcguire@gmail.com](mailto:elemcguire@gmail.com)
 
