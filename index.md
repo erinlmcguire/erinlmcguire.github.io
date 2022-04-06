@@ -5,7 +5,7 @@
 
 Welcome!  
 
-I'm currently a Senior Analyst in Global People Analytics at PepsiCo. This page is meant to showcase my side data analysis projects and analysis I did as an academic economist.  Much of the code here uses R, but I also use Python and SQL. 
+I'm currently the People Analytics Lead for North America at Mondelēz International, Inc. This page is meant to showcase my side data analysis projects and analysis I did as an academic economist.  Much of the code here uses R, but I also use Python and SQL. 
 
 
 
